@@ -26,11 +26,13 @@ $(function () {
     // ONLY CHANGE BELOW THIS POINT //
     //////////////////////////////////
 
-    // TODO 1 - Enable the Grid
-    // toggleGrid();
+    //TODO 1 - Enable the Grid
+     toggleGrid();
 
 
     // TODO 2 - Create Platforms
+ createPlatform(150, 400, 150, 15 "hotpink")
+ createPlatform(500, 200, 100, 15, "red")
 
 
 
